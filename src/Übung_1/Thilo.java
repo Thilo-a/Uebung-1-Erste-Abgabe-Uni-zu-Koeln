@@ -1,5 +1,5 @@
 package Übung_1;
 
-public class Main {
+public class Thilo {
 
 }
